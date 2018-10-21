@@ -8,3 +8,7 @@ exports.spotify = {
 exports.concert = {
     app_id: 'codingbootcamp',
 }
+
+exports.movie = {
+    apikey: 'trilogy',
+}
