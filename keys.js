@@ -6,9 +6,9 @@ exports.spotify = {
 };
 
 exports.concert = {
-    app_id: 'codingbootcamp',
+    app_id: process.env.BANDS_KEY 
 }
 
 exports.movie = {
-    apikey: 'trilogy',
+    apikey: process.env.OMDB_KEY 
 }

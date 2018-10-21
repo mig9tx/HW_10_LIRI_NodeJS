@@ -1,0 +1,98 @@
+Command: spotify-this-song, Search: "I Want It That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: The Hits--Chapter One
+
+Command: movie-this, Search: gladiator
+
+Command: movie-this, Search: gladiator
+Title: Gladiator
+Year: 2000
+IMDB rating: 8.5
+Rotten Rating: 77%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+Command: concert-this, Search: u2
+
+Command: concert-this, Search: u2
+Venue: The O2
+Location: London, United Kingdom
+Date: 10/23/2018
+Venue: The O2
+Location: London, United Kingdom
+Date: 10/24/2018
+Venue: SSE Arena
+Location: Belfast, United Kingdom
+Date: 10/27/2018
+Venue: SSE Arena
+Location: Belfast, United Kingdom
+Date: 10/28/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/05/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/06/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/09/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/10/2018
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, Germany
+Date: 11/13/2018
+
+Command: spotify-this-song, Search: enter sandman
+Artist: Metallica
+Song Name: Enter Sandman
+Preview Url: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Metallica
+
+Command: concert-this, Search: u2
+
+Command: concert-this, Search: u2
+Venue: The O2
+Location: London, United Kingdom
+Date: 10/23/2018
+Venue: The O2
+Location: London, United Kingdom
+Date: 10/24/2018
+Venue: SSE Arena
+Location: Belfast, United Kingdom
+Date: 10/27/2018
+Venue: SSE Arena
+Location: Belfast, United Kingdom
+Date: 10/28/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/05/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/06/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/09/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/10/2018
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, Germany
+Date: 11/13/2018
+
+Command: movie-this, Search: iron man
+
+Command: movie-this, Search: iron man
+Title: Iron Man
+Year: 2008
+IMDB rating: 7.9
+Rotten Rating: 93%
+Country: USA
+Language: English, Persian, Urdu, Arabic, Hungarian
+Plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
+Actors: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow
+
