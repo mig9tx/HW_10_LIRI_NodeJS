@@ -1,8 +1,8 @@
-Command: spotify-this-song, Search: "I Want It That Way"
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0ffe6d3595647d184d76ca49df85eff
-Album Name: The Hits--Chapter One
+Command: spotify-this-song, Search: crazy train
+Artist: Ozzy Osbourne
+Song Name: Crazy Train - Remastered
+Preview Url: https://p.scdn.co/mp3-preview/a3f3a8418391439b4725f26fbb3f1b272c24bc02?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Blizzard of Ozz (Expanded Edition)
 
 Command: movie-this, Search: gladiator
 
@@ -10,11 +10,437 @@ Command: movie-this, Search: gladiator
 Title: Gladiator
 Year: 2000
 IMDB rating: 8.5
-Rotten Rating: 77%
+Rotten Tomatoes Rating: 77%
 Country: USA, UK
 Language: English
 Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
 Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+Command: movie-this, Search: rocky IV
+
+Command: movie-this, Search: rocky IV
+Title: Rocky IV
+Year: 1985
+IMDB rating: 6.8
+Rotten Tomatoes Rating: 38%
+Country: USA
+Language: English, Russian
+Plot: Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.
+Actors: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+
+Command: concert-this, Search: u2
+
+Command: concert-this, Search: u2
+Venue: The O2
+Location: London, United Kingdom
+Date: 10/23/2018
+Venue: The O2
+Location: London, United Kingdom
+Date: 10/24/2018
+Venue: SSE Arena
+Location: Belfast, United Kingdom
+Date: 10/27/2018
+Venue: SSE Arena
+Location: Belfast, United Kingdom
+Date: 10/28/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/05/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/06/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/09/2018
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 11/10/2018
+Venue: Mercedes-Benz Arena Berlin
+Location: Berlin, Germany
+Date: 11/13/2018
+
+Command: concert-this, Search: metallica
+
+Command: concert-this, Search: metallica
+Venue: Spectrum Center
+Location: Charlotte, United States
+Date: 10/22/2018
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date: 10/25/2018
+Venue: KeyBank Center
+Location: Buffalo, United States
+Date: 10/27/2018
+Venue: Times Union Center
+Location: Albany, United States
+Date: 10/29/2018
+Venue: T-Mobile Arena
+Location: Las Vegas, United States
+Date: 11/26/2018
+Venue: Taco Bell Arena
+Location: Boise, United States
+Date: 11/28/2018
+Venue: Vivint Smart Home Arena
+Location: Salt Lake City, United States
+Date: 11/30/2018
+Venue: Spokane Arena
+Location: Spokane, United States
+Date: 12/02/2018
+Venue: Moda Center
+Location: Portland, United States
+Date: 12/05/2018
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date: 12/07/2018
+Venue: Save Mart Center
+Location: Fresno, United States
+Date: 12/09/2018
+Venue: Konzertfabrik Z7 & Mini Z7
+Location: Pratteln, Switzerland
+Date: 12/31/2018
+Venue: BOK Center
+Location: Tulsa, United States
+Date: 01/18/2019
+Venue: Verizon Arena
+Location: North Little Rock, United States
+Date: 01/20/2019
+Venue: Legacy Arena at The BJCC
+Location: Birmingham, United States
+Date: 01/22/2019
+Venue: Bridgestone Arena
+Location: Nashville, United States
+Date: 01/24/2019
+Venue: PNC Arena
+Location: Raleigh, United States
+Date: 01/28/2019
+Venue: U.S. Bank Arena
+Location: Cincinnati, United States
+Date: 01/30/2019
+Venue: Quicken Loans Arena
+Location: Cleveland, United States
+Date: 02/01/2019
+Venue: Don Haskins Center
+Location: El Paso, United States
+Date: 02/28/2019
+Venue: United Supermarkets Arena
+Location: Lubbock, United States
+Date: 03/02/2019
+Venue: Intrust Bank Arena
+Location: Wichita, United States
+Date: 03/04/2019
+Venue: Sprint Center
+Location: Kansas City, United States
+Date: 03/06/2019
+Venue: KFC Yum! Center
+Location: Louisville, United States
+Date: 03/09/2019
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, United States
+Date: 03/11/2019
+Venue: Van Andel Arena
+Location: Grand Rapids, United States
+Date: 03/13/2019
+Venue: Restelo Stadium
+Location: Lisbon, Portugal
+Date: 05/01/2019
+Venue: Valdebebas - IFEMA
+Location: Madrid, Spain
+Date: 05/03/2019
+Venue: Estadi Olímpic Lluís Companys
+Location: Barcelona, Spain
+Date: 05/05/2019
+Venue: Ippodromo Snai - San Siro
+Location: Milan, Italy
+Date: 05/08/2019
+Venue: Stadion Letzigrund
+Location: Zürich, Switzerland
+Date: 05/10/2019
+Venue: Stade de France
+Location: Paris, France
+Date: 05/12/2019
+Venue: SLANE CASTLE
+Location: Co. Meath, Ireland
+Date: 06/08/2019
+Venue: Johan Cruijff ArenA
+Location: Nieuw-amsterdam, Netherlands
+Date: 06/11/2019
+Venue: RheinEnergieSTADION
+Location: Köln, Germany
+Date: 06/13/2019
+Venue: Stade Roi Baudouin
+Location: Bruxelles, Belgium
+Date: 06/16/2019
+Venue: Etihad Stadium
+Location: Manchester, United Kingdom
+Date: 06/18/2019
+Venue: Twickenham Stadium
+Location: London, United Kingdom
+Date: 06/20/2019
+Venue: Olympiastadion
+Location: Berlin, Germany
+Date: 07/06/2019
+Venue: Ullevi Restaurant & Conference
+Location: Göteborg, Sweden
+Date: 07/09/2019
+Venue: Telia Parken
+Location: Copenhagen, Denmark
+Date: 07/11/2019
+Venue: Granasen Arena
+Location: Trondheim, Norway
+Date: 07/13/2019
+Venue: KANTOLAN TAPAHTUMAPUISTO
+Location: Hameenlinna, Finland
+Date: 07/16/2019
+Venue: Raadi lennuväli, Tartu
+Location: Tartu, Estija
+Date: 07/18/2019
+Venue: The Luzhniki Stadium
+Location: Moscow, Russia
+Date: 07/21/2019
+Venue: NATIONAL ARENA
+Location: Bucuresti, Romania
+Date: 08/14/2019
+Venue: Ernst Happel Stadion
+Location: Wien, Austria
+Date: 08/16/2019
+Venue: Letiště Praha Letňany
+Location: Praha, Czech Republic
+Date: 08/18/2019
+Venue: PGE Narodowy
+Location: Warsaw, Poland
+Date: 08/21/2019
+Venue: Olympiastadion
+Location: Munchen, Germany
+Date: 08/23/2019
+Venue: Maimarkt Gelände
+Location: Mannheim, Germany
+Date: 08/25/2019
+
+Command: spotify-this-song, Search: enter sandman
+Artist: Metallica
+Song Name: Enter Sandman
+Preview Url: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Metallica
+
+Command: spotify-this-song, Search: crazy train
+Artist: Ozzy Osbourne
+Song Name: Crazy Train - Remastered
+Preview Url: https://p.scdn.co/mp3-preview/a3f3a8418391439b4725f26fbb3f1b272c24bc02?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Blizzard of Ozz (Expanded Edition)
+
+Command: spotify-this-song, Search: "I Want It That Way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: The Hits--Chapter One
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: movie-this, Search: gladiator
+
+Command: movie-this, Search: gladiator
+Title: Gladiator
+Year: 2000
+IMDB rating: 8.5
+Rotten Tomatoes Rating: 77%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+Command: movie-this, Search: rocky IV
+
+Command: movie-this, Search: rocky IV
+Title: Rocky IV
+Year: 1985
+IMDB rating: 6.8
+Rotten Tomatoes Rating: 38%
+Country: USA
+Language: English, Russian
+Plot: Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.
+Actors: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+
+Command: concert-this, Search: justin timberlake
+
+Command: concert-this, Search: justin timberlake
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 10/22/2018
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 10/24/2018
+Venue: KeyBank Center
+Location: Buffalo, United States
+Date: 10/28/2018
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/04/2018
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/05/2018
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/08/2018
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/09/2018
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 11/12/2018
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 11/13/2018
+Venue: Moda Center
+Location: Portland, United States
+Date: 11/16/2018
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date: 11/18/2018
+Venue: Honda Center
+Location: Anaheim, United States
+Date: 11/20/2018
+Venue: Staples Center
+Location: Los Angeles, United States
+Date: 11/27/2018
+Venue: Talking Stick Resort Arena
+Location: Phoenix, United States
+Date: 11/29/2018
+Venue: T-Mobile Arena
+Location: Las Vegas, United States
+Date: 12/01/2018
+Venue: Save Mart Center
+Location: Fresno, United States
+Date: 12/03/2018
+Venue: Oracle Arena
+Location: Oakland, United States
+Date: 12/05/2018
+Venue: CenturyLink Center Omaha
+Location: Omaha, United States
+Date: 12/08/2018
+Venue: Sprint Center
+Location: Kansas City, United States
+Date: 12/10/2018
+Venue: Scottrade Center
+Location: St Louis, United States
+Date: 12/13/2018
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, United States
+Date: 12/14/2018
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date: 12/17/2018
+Venue: Mohegan Sun Arena
+Location: Uncasville, United States
+Date: 12/21/2018
+Venue: Mohegan Sun Arena
+Location: Uncasville, United States
+Date: 12/22/2018
+Venue: Capital One Arena
+Location: Washington, United States
+Date: 01/04/2019
+Venue: PNC Arena
+Location: Raleigh, United States
+Date: 01/06/2019
+Venue: Spectrum Center
+Location: Charlotte, United States
+Date: 01/08/2019
+Venue: Philips Arena
+Location: Atlanta, United States
+Date: 01/10/2019
+Venue: FedExForum
+Location: Memphis, United States
+Date: 01/12/2019
+Venue: Smoothie King Center
+Location: New Orleans, United States
+Date: 01/15/2019
+Venue: Verizon Arena
+Location: North Little Rock, United States
+Date: 01/17/2019
+Venue: AT&T Center
+Location: San Antonio, United States
+Date: 01/19/2019
+Venue: Toyota Center
+Location: Houston, United States
+Date: 01/22/2019
+Venue: American Airlines Center
+Location: Dallas, United States
+Date: 01/24/2019
+Venue: Chesapeake Energy Arena
+Location: Oklahoma City, United States
+Date: 01/26/2019
+Venue: Pepsi Center
+Location: Denver, United States
+Date: 01/29/2019
 
 Command: concert-this, Search: u2
 
@@ -53,46 +479,495 @@ Song Name: Enter Sandman
 Preview Url: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=e0ffe6d3595647d184d76ca49df85eff
 Album Name: Metallica
 
-Command: concert-this, Search: u2
+Command: spotify-this-song, Search: thunder
+Artist: Imagine Dragons
+Song Name: Thunder
+Preview Url: null
+Album Name: Evolve
 
-Command: concert-this, Search: u2
-Venue: The O2
-Location: London, United Kingdom
-Date: 10/23/2018
-Venue: The O2
-Location: London, United Kingdom
-Date: 10/24/2018
-Venue: SSE Arena
-Location: Belfast, United Kingdom
-Date: 10/27/2018
-Venue: SSE Arena
-Location: Belfast, United Kingdom
-Date: 10/28/2018
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 11/05/2018
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 11/06/2018
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 11/09/2018
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 11/10/2018
-Venue: Mercedes-Benz Arena Berlin
-Location: Berlin, Germany
-Date: 11/13/2018
+Command: spotify-this-song, Search: crazy train
+Artist: Ozzy Osbourne
+Song Name: Crazy Train - Remastered
+Preview Url: https://p.scdn.co/mp3-preview/a3f3a8418391439b4725f26fbb3f1b272c24bc02?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Blizzard of Ozz (Expanded Edition)
 
-Command: movie-this, Search: iron man
+Command: movie-this, Search: "Solo: A Star Wars Story"
 
-Command: movie-this, Search: iron man
-Title: Iron Man
-Year: 2008
-IMDB rating: 7.9
-Rotten Rating: 93%
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
 Country: USA
-Language: English, Persian, Urdu, Arabic, Hungarian
-Plot: After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.
-Actors: Robert Downey Jr., Terrence Howard, Jeff Bridges, Gwyneth Paltrow
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: spotify-this-song, Search: "I want it that way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: The Hits--Chapter One
+
+Command: spotify-this-song, Search: enter sandman
+Artist: Metallica
+Song Name: Enter Sandman
+Preview Url: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Metallica
+
+Command: movie-this, Search: gladiator
+
+Command: movie-this, Search: gladiator
+Title: Gladiator
+Year: 2000
+IMDB rating: 8.5
+Rotten Tomatoes Rating: 77%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+Command: concert-this, Search: justin timberlake
+
+Command: concert-this, Search: justin timberlake
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 10/22/2018
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 10/24/2018
+Venue: KeyBank Center
+Location: Buffalo, United States
+Date: 10/28/2018
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/04/2018
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/05/2018
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/08/2018
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/09/2018
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 11/12/2018
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 11/13/2018
+Venue: Moda Center
+Location: Portland, United States
+Date: 11/16/2018
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date: 11/18/2018
+Venue: Honda Center
+Location: Anaheim, United States
+Date: 11/20/2018
+Venue: Staples Center
+Location: Los Angeles, United States
+Date: 11/27/2018
+Venue: Talking Stick Resort Arena
+Location: Phoenix, United States
+Date: 11/29/2018
+Venue: T-Mobile Arena
+Location: Las Vegas, United States
+Date: 12/01/2018
+Venue: Save Mart Center
+Location: Fresno, United States
+Date: 12/03/2018
+Venue: Oracle Arena
+Location: Oakland, United States
+Date: 12/05/2018
+Venue: CenturyLink Center Omaha
+Location: Omaha, United States
+Date: 12/08/2018
+Venue: Sprint Center
+Location: Kansas City, United States
+Date: 12/10/2018
+Venue: Scottrade Center
+Location: St Louis, United States
+Date: 12/13/2018
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, United States
+Date: 12/14/2018
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date: 12/17/2018
+Venue: Mohegan Sun Arena
+Location: Uncasville, United States
+Date: 12/21/2018
+Venue: Mohegan Sun Arena
+Location: Uncasville, United States
+Date: 12/22/2018
+Venue: Capital One Arena
+Location: Washington, United States
+Date: 01/04/2019
+Venue: PNC Arena
+Location: Raleigh, United States
+Date: 01/06/2019
+Venue: Spectrum Center
+Location: Charlotte, United States
+Date: 01/08/2019
+Venue: Philips Arena
+Location: Atlanta, United States
+Date: 01/10/2019
+Venue: FedExForum
+Location: Memphis, United States
+Date: 01/12/2019
+Venue: Smoothie King Center
+Location: New Orleans, United States
+Date: 01/15/2019
+Venue: Verizon Arena
+Location: North Little Rock, United States
+Date: 01/17/2019
+Venue: AT&T Center
+Location: San Antonio, United States
+Date: 01/19/2019
+Venue: Toyota Center
+Location: Houston, United States
+Date: 01/22/2019
+Venue: American Airlines Center
+Location: Dallas, United States
+Date: 01/24/2019
+Venue: Chesapeake Energy Arena
+Location: Oklahoma City, United States
+Date: 01/26/2019
+Venue: Pepsi Center
+Location: Denver, United States
+Date: 01/29/2019
+
+Command: spotify-this-song, Search: "I want it that way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: The Hits--Chapter One
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: movie-this, Search: gladiator
+
+Command: movie-this, Search: gladiator
+Title: Gladiator
+Year: 2000
+IMDB rating: 8.5
+Rotten Tomatoes Rating: 77%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+Command: movie-this, Search: rocky Iv
+
+Command: movie-this, Search: rocky Iv
+Title: Rocky IV
+Year: 1985
+IMDB rating: 6.8
+Rotten Tomatoes Rating: 38%
+Country: USA
+Language: English, Russian
+Plot: Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.
+Actors: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+
+Command: concert-this, Search: justin timberlake
+
+Command: concert-this, Search: justin timberlake
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 10/22/2018
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 10/24/2018
+Venue: KeyBank Center
+Location: Buffalo, United States
+Date: 10/28/2018
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/04/2018
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/05/2018
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/08/2018
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/09/2018
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 11/12/2018
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 11/13/2018
+Venue: Moda Center
+Location: Portland, United States
+Date: 11/16/2018
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date: 11/18/2018
+Venue: Honda Center
+Location: Anaheim, United States
+Date: 11/20/2018
+Venue: Staples Center
+Location: Los Angeles, United States
+Date: 11/27/2018
+Venue: Talking Stick Resort Arena
+Location: Phoenix, United States
+Date: 11/29/2018
+Venue: T-Mobile Arena
+Location: Las Vegas, United States
+Date: 12/01/2018
+Venue: Save Mart Center
+Location: Fresno, United States
+Date: 12/03/2018
+Venue: Oracle Arena
+Location: Oakland, United States
+Date: 12/05/2018
+Venue: CenturyLink Center Omaha
+Location: Omaha, United States
+Date: 12/08/2018
+Venue: Sprint Center
+Location: Kansas City, United States
+Date: 12/10/2018
+Venue: Scottrade Center
+Location: St Louis, United States
+Date: 12/13/2018
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, United States
+Date: 12/14/2018
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date: 12/17/2018
+Venue: Mohegan Sun Arena
+Location: Uncasville, United States
+Date: 12/21/2018
+Venue: Mohegan Sun Arena
+Location: Uncasville, United States
+Date: 12/22/2018
+Venue: Capital One Arena
+Location: Washington, United States
+Date: 01/04/2019
+Venue: PNC Arena
+Location: Raleigh, United States
+Date: 01/06/2019
+Venue: Spectrum Center
+Location: Charlotte, United States
+Date: 01/08/2019
+Venue: Philips Arena
+Location: Atlanta, United States
+Date: 01/10/2019
+Venue: FedExForum
+Location: Memphis, United States
+Date: 01/12/2019
+Venue: Smoothie King Center
+Location: New Orleans, United States
+Date: 01/15/2019
+Venue: Verizon Arena
+Location: North Little Rock, United States
+Date: 01/17/2019
+Venue: AT&T Center
+Location: San Antonio, United States
+Date: 01/19/2019
+Venue: Toyota Center
+Location: Houston, United States
+Date: 01/22/2019
+Venue: American Airlines Center
+Location: Dallas, United States
+Date: 01/24/2019
+Venue: Chesapeake Energy Arena
+Location: Oklahoma City, United States
+Date: 01/26/2019
+Venue: Pepsi Center
+Location: Denver, United States
+Date: 01/29/2019
+
+Command: spotify-this-song, Search: enter sandman
+Artist: Metallica
+Song Name: Enter Sandman
+Preview Url: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Metallica
+
+Command: spotify-this-song, Search: crazy train
+Artist: Ozzy Osbourne
+Song Name: Crazy Train - Remastered
+Preview Url: https://p.scdn.co/mp3-preview/a3f3a8418391439b4725f26fbb3f1b272c24bc02?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Blizzard of Ozz (Expanded Edition)
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+
+Command: movie-this, Search: "Solo: A Star Wars Story"
+Title: Solo: A Star Wars Story
+Year: 2018
+IMDB rating: 7.0
+Rotten Tomatoes Rating: 70%
+Country: USA
+Language: English
+Plot: During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+Actors: Alden Ehrenreich, Joonas Suotamo, Woody Harrelson, Emilia Clarke
+
+Command: spotify-this-song, Search: "I want it that way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: The Hits--Chapter One
+
+Command: movie-this, Search: gladiator
+
+Command: movie-this, Search: gladiator
+Title: Gladiator
+Year: 2000
+IMDB rating: 8.5
+Rotten Tomatoes Rating: 77%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+Command: movie-this, Search: gladiator
+
+Command: movie-this, Search: gladiator
+Title: Gladiator
+Year: 2000
+IMDB rating: 8.5
+Rotten Tomatoes Rating: 77%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+
+Command: spotify-this-song, Search: enter sandman
+Artist: Metallica
+Song Name: Enter Sandman
+Preview Url: https://p.scdn.co/mp3-preview/1ee9f1b0c3e3b327dd49ebc6dd64266b01adb96a?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: Metallica
+
+Command: concert-this, Search: justin timberlake
+
+Command: concert-this, Search: justin timberlake
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 10/22/2018
+Venue: Madison Square Garden
+Location: New York, United States
+Date: 10/24/2018
+Venue: KeyBank Center
+Location: Buffalo, United States
+Date: 10/28/2018
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/04/2018
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 11/05/2018
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/08/2018
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 11/09/2018
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 11/12/2018
+Venue: Tacoma Dome
+Location: Tacoma, United States
+Date: 11/13/2018
+Venue: Moda Center
+Location: Portland, United States
+Date: 11/16/2018
+Venue: Golden 1 Center
+Location: Sacramento, United States
+Date: 11/18/2018
+Venue: Honda Center
+Location: Anaheim, United States
+Date: 11/20/2018
+Venue: Staples Center
+Location: Los Angeles, United States
+Date: 11/27/2018
+Venue: Talking Stick Resort Arena
+Location: Phoenix, United States
+Date: 11/29/2018
+Venue: T-Mobile Arena
+Location: Las Vegas, United States
+Date: 12/01/2018
+Venue: Save Mart Center
+Location: Fresno, United States
+Date: 12/03/2018
+Venue: Oracle Arena
+Location: Oakland, United States
+Date: 12/05/2018
+Venue: CenturyLink Center Omaha
+Location: Omaha, United States
+Date: 12/08/2018
+Venue: Sprint Center
+Location: Kansas City, United States
+Date: 12/10/2018
+Venue: Scottrade Center
+Location: St Louis, United States
+Date: 12/13/2018
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, United States
+Date: 12/14/2018
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date: 12/17/2018
+Venue: Mohegan Sun Arena
+Location: Uncasville, United States
+Date: 12/21/2018
+Venue: Mohegan Sun Arena
+Location: Uncasville, United States
+Date: 12/22/2018
+Venue: Capital One Arena
+Location: Washington, United States
+Date: 01/04/2019
+Venue: PNC Arena
+Location: Raleigh, United States
+Date: 01/06/2019
+Venue: Spectrum Center
+Location: Charlotte, United States
+Date: 01/08/2019
+Venue: Philips Arena
+Location: Atlanta, United States
+Date: 01/10/2019
+Venue: FedExForum
+Location: Memphis, United States
+Date: 01/12/2019
+Venue: Smoothie King Center
+Location: New Orleans, United States
+Date: 01/15/2019
+Venue: Verizon Arena
+Location: North Little Rock, United States
+Date: 01/17/2019
+Venue: AT&T Center
+Location: San Antonio, United States
+Date: 01/19/2019
+Venue: Toyota Center
+Location: Houston, United States
+Date: 01/22/2019
+Venue: American Airlines Center
+Location: Dallas, United States
+Date: 01/24/2019
+Venue: Chesapeake Energy Arena
+Location: Oklahoma City, United States
+Date: 01/26/2019
+Venue: Pepsi Center
+Location: Denver, United States
+Date: 01/29/2019
+
+Command: spotify-this-song, Search: "I want it that way"
+Artist: Backstreet Boys
+Song Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e0ffe6d3595647d184d76ca49df85eff
+Album Name: The Hits--Chapter One
 

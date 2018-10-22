@@ -1,18 +1,12 @@
-require("dotenv").config(); //file where keys are hidden
+require("dotenv").config(); //file where keys are hidden is loaded
 
-var keys = require("./keys.js");
-var fs = require("fs"); //file system
-var moment = require('moment');
-var Spotify = require("node-spotify-api");
-var spotify = new Spotify(keys.spotify);
-var request = require("request");
-var searchResult = '';//global variable to hold all of the results from any of the queries
-
-
-
-
-
-// var bandsintown = require('bandsintown')(APP_ID);
+var keys = require("./keys.js"); //file that direct terminal to .env file
+var fs = require("fs"); //file system package to be loaded
+var moment = require('moment'); //moment.js package for date formatting
+var Spotify = require("node-spotify-api"); //spotify api package to aid in query
+var spotify = new Spotify(keys.spotify); //variable that gets and utilizes spotify keys
+var request = require("request"); //npm package that facilitates simple http requests
+var searchResult = ''; //global variable to hold all of the results from any of the queries
 
 //takes two arguments
 //action (ie. 'concert-this', 'spotify-this-song', 'movie-this','do-what-it-says')
@@ -20,34 +14,7 @@ var action = process.argv[2];
 //search term to be used in the action
 var searchName = process.argv[3];
 
-// console.log(Spotify);
-// console.log(spotify);
-
-// console.log(process.env.SPOTIFY_ID)/
-// console.log(process.env.SPOTIFY_SECRET);
-
 //switch cases for the actions
-
-function searchLog() {
-    var text = "Command: " + action + ", Search: "+ searchName;
-
-    // Next, we append the text into the "log.txt" file.
-    // If the file didn't exist, then it gets created on the fly.
-    fs.appendFile("./log.txt", `${text}\n${searchResult}\n`, function (err) {
-
-        // If an error was experienced we will log it.
-        if (err) {
-            console.log(err);
-        }
-
-        // If no error is experienced, we'll log the phrase "Content Added" to our node console.
-        else {
-            console.log("Content Added!");
-        }
-
-    });
-}
-
 commands();
 
 function commands() {
@@ -58,7 +25,7 @@ function commands() {
             break;
 
         case "spotify-this-song":
-            
+
             spotifyThisSong();
             break;
 
@@ -90,11 +57,11 @@ function spotifyThisSong() {
             limit: 1
         })
         .then(function (response) {
-            searchResult = "Artist: " + response.tracks.items[0].artists[0].name + "\n" + 
-            "Song Name: " + response.tracks.items[0].name + "\n" + 
-            "Preview Url: " + response.tracks.items[0].preview_url + "\n" +
-            "Album Name: " + response.tracks.items[0].album.name + "\n";
-            
+            searchResult = "Artist: " + response.tracks.items[0].artists[0].name + "\n" +
+                "Song Name: " + response.tracks.items[0].name + "\n" +
+                "Preview Url: " + response.tracks.items[0].preview_url + "\n" +
+                "Album Name: " + response.tracks.items[0].album.name + "\n";
+
             console.log(searchResult);
             searchLog();
 
@@ -123,19 +90,16 @@ function concertThis() {
 
         // If the request is successful
         if (!error && response.statusCode === 200) {
-            const concerts = JSON.parse(body);
-            console.log(concerts);
+            const concerts = JSON.parse(body); //parses through the string to clean up the result for readability
             searchResult = '';
             for (i = 0; i < concerts.length; i++) {
                 searchResult = searchResult + "Venue: " + concerts[i].venue.name + "\n" +
-                "Location: " + concerts[i].venue.city + ", " + concerts[i].venue.country + "\n" +
-                "Date: " + moment(concerts[i].datetime).format("MM/DD/YYYY") + "\n";
+                    "Location: " + concerts[i].venue.city + ", " + concerts[i].venue.country + "\n" +
+                    "Date: " + moment(concerts[i].datetime).format("MM/DD/YYYY") + "\n";
             }
             console.log(searchResult);
             searchLog();
 
-            // Parse the body of the site and recover just the imdbRating
-            // (Note: The syntax below for parsing isn't obvious. Just spend a few moments dissecting it).
         }
     });
 }
@@ -151,14 +115,14 @@ function movieThis() {
         // console.log(movieInfo);
         // If the request is successful (i.e. if the response status code is 200)
         if (!error && response.statusCode === 200) {
-            searchResult = "Title: " + movieInfo.Title + "\n" +// * Title of the movie.
-            "Year: " + movieInfo.Year + "\n" + // * Year the movie came out.
-            "IMDB rating: " + movieInfo.imdbRating + "\n" + // * IMDB Rating of the movie.
-            "Rotten Rating: " + movieInfo.Ratings[1].Value + "\n" + // * Rotten Tomatoes Rating of the movie.
-            "Country: " + movieInfo.Country + "\n" + // * Country where the movie was produced.
-            "Language: " + movieInfo.Language + "\n" +  // * Language of the movie.
-            "Plot: " + movieInfo.Plot + "\n" + // * Plot of the movie.
-            "Actors: " + movieInfo.Actors + "\n"  // * Actors in the movie.
+            searchResult = "Title: " + movieInfo.Title + "\n" + // * Title of the movie.
+                "Year: " + movieInfo.Year + "\n" + // * Year the movie came out.
+                "IMDB rating: " + movieInfo.imdbRating + "\n" + // * IMDB Rating of the movie.
+                "Rotten Tomatoes Rating: " + movieInfo.Ratings[1].Value + "\n" + // * Rotten Tomatoes Rating of the movie.
+                "Country: " + movieInfo.Country + "\n" + // * Country where the movie was produced.
+                "Language: " + movieInfo.Language + "\n" + // * Language of the movie.
+                "Plot: " + movieInfo.Plot + "\n" + // * Plot of the movie.
+                "Actors: " + movieInfo.Actors + "\n" // * Actors in the movie.
         }
         console.log(searchResult);
         searchLog();
@@ -166,19 +130,39 @@ function movieThis() {
 }
 
 function doWhatItSays() {
-    fs.readFile("random.txt", "utf8", function (error, data) {
+    fs.readFile("random.txt", "utf8", function (error, data) { //reads the random.txt file
 
         if (error) {
             return console.log(error);
         }
-        console.log(data);
-        var dataArr = data.split(",");
-        console.log(dataArr);
-        searchName = dataArr[1];
+        // console.log(data);
+        var dataArr = data.split(","); //splits the information in the .txt file into an array
+        // console.log(dataArr);
+        searchName = dataArr[1]; //stores the array strings in variables to be used in the commands function
         action = dataArr[0];
-        console.log(searchName);
-        console.log(action);
+        // console.log(searchName);
+        // console.log(action);
         commands();
-        
+
+    });
+}
+
+function searchLog() { //function that appends the user command and search results to the log.txt file
+    var text = "Command: " + action + ", Search: " + searchName;
+
+    // Next, we append the text into the "log.txt" file.
+    // If the file didn't exist, then it gets created on the fly.
+    fs.appendFile("./log.txt", `${text}\n${searchResult}\n`, function (err) {
+
+        // If an error was experienced we will log it.
+        if (err) {
+            console.log(err);
+        }
+
+        // If no error is experienced, we'll log the phrase "Content Added" to our node console.
+        else {
+            console.log("Content Added!");
+        }
+
     });
 }
