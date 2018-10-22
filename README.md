@@ -11,15 +11,23 @@ The **node-spotify-api** which facilitates the request to spotify and incorporat
 The Liri Application can be asked to search for four different things:
 
 Command: ***node ./liri.js spotify-this-song "Name of Song"*** - will return information about a specific song.
+Example:
+![spotify-this-song](https://github.com/mig9tx/HW_10_LIRI_NodeJS/blob/master/assets/images/spotify-this-song.PNG)
 
 Command: ***node ./liri.js concert this "Name of Artist"*** - will return a list of upcoming venues, location, and dates of the artist's upcoming shows.
 
 Example:
-![concert-this](C:\Users\miket\Documents\github\HW_10_LIRI_NodeJS\assets\images\concert-this.PNG)
+![concert-this](https://github.com/mig9tx/HW_10_LIRI_NodeJS/blob/master/assets/images/concert-this.PNG)
 
 Command: ***node ./liri.js movie-this "Name of Movie"*** - will return information about a specific movie including, title, year released, imdb rating, Rotten Tomato Rating, Plot and Actors.
 
+Example:
+![movie-this](https://github.com/mig9tx/HW_10_LIRI_NodeJS/blob/master/assets/images/movie-this.PNG)
+
 Command: ***node ./liri.js do-what-it-says*** - will read the command and search term in a text file, detect the command, perform the function and display the result.
+
+Example:
+![do-what-it-says](https://github.com/mig9tx/HW_10_LIRI_NodeJS/blob/master/assets/images/do-what-it-says.PNG)
 
 All of the commands and results are also being appended into the log.txt file and can be viewed within VSC and github.
 
