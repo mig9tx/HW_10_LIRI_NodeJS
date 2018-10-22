@@ -14,6 +14,9 @@ Command: ***node ./liri.js spotify-this-song "Name of Song"*** - will return inf
 
 Command: ***node ./liri.js concert this "Name of Artist"*** - will return a list of upcoming venues, location, and dates of the artist's upcoming shows.
 
+Example:
+![concert-this](C:\Users\miket\Documents\github\HW_10_LIRI_NodeJS\assets\images\concert-this.PNG)
+
 Command: ***node ./liri.js movie-this "Name of Movie"*** - will return information about a specific movie including, title, year released, imdb rating, Rotten Tomato Rating, Plot and Actors.
 
 Command: ***node ./liri.js do-what-it-says*** - will read the command and search term in a text file, detect the command, perform the function and display the result.
